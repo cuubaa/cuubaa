@@ -1,11 +1,15 @@
 # 👋
-Hi, I’m @cuubaa 
+### Hi, I'm @cuubaa  🇵🇱 
+
+[![avatar](https://jaszczur.eu/wp-content/uploads/2018/08/jeu100.png "j/eu")](https://jaszczur.eu/kuba/)
 
 Prowadzę własny blog o tematyce IT, sprawdź jeśli masz ochotę 😉 [jaszczur.eu - blog IT](https://jaszczur.eu)
 
 Ostatnie wpisy:
 - [Czym jest self-hosting + moje top 10 aplikacji z których korzystam](https://jaszczur.eu/czym-jest-self-hosting/)
 - [Czym jest docker i docker-compose - proste wprowadzenie do tematu](https://jaszczur.eu/docker-i-docker-compose-wprowadzenie-instalacja-i-patenty/)
+
+
 
 <!---
 cuubaa/cuubaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
